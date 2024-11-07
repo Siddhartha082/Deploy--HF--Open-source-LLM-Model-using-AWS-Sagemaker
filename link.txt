@@ -1,6 +1,0 @@
-#3-Deployment Of Huggingface OpenSource LLM Models In AWS Sagemakers With Endpoints
-https://youtu.be/U72q95dHpRo?si=udOSY9pRdDsfZr90
-
-
-
-Alternate - https://www.youtube.com/watch?v=A9Pu4xg-Nas
